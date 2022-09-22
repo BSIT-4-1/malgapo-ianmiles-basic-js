@@ -7,10 +7,10 @@
 
 // Variable declaration
 // string, number, boolean, object, function
-let name = "Arnold"; // string
-let age = 21; // number
+let name = "Ian Miles"; // string
+let age = 22; // number
 let isSingle = false; // boolean
-let hobbies = ["watching movies", `playing basketball`, "playing video games"];
+let hobbies = ["watching anime", "playing video games", "listening to music"];
 let jsonObject = { name, age, isSingle, hobbies };
 let run = function () {
   console.log(name + " is running.");
